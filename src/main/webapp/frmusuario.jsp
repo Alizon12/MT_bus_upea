@@ -1,7 +1,5 @@
 <%-- 
-    Document   : frmusuario
-    Created on : 5 dic. de 2022, 01:05:08
-    Author     : MARCO_T_EMERGENTES
+    
 --%>
 <%
     if (session.getAttribute("login") != "ok"){

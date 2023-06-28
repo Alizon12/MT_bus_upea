@@ -5,9 +5,7 @@
 %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%-- 
-    Document   : encargado
-    Created on : 1 dic. de 2022, 20:01:36
-    Author     : MARCO_T_EMERGENTES
+    
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

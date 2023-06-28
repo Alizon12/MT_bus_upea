@@ -1,8 +1,5 @@
 <%-- 
-    Document   : login
-    Created on : 4 dic. de 2022, 17:27:26
-    Author     : MARCO_T_EMERGENTES
-    proyecto original
+    
 
 --%>
 

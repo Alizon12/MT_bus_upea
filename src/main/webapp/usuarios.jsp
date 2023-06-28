@@ -1,8 +1,6 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%-- 
-    Document   : usuarios
-    Created on : 1 dic. de 2022, 20:02:41
-    Author     : MARCO_T_EMERGENTES
+    
 --%>
 <%
     if (session.getAttribute("login") != "ok"){

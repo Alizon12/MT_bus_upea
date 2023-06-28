@@ -1,9 +1,4 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-<%-- 
-    Document   : 1portada
-    Created on : 5 dic. de 2022, 01:24:32
-    Author     : MARCO_T_EMERGENTES
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -40,7 +35,7 @@
            <img class="mb-4" src="img/logoUpea.png" alt="" width="390" height="230">
 
             <h1 class="display-4 fw-normal">Bienvenidos a fehca Horarios Buses UPEA</h1>
-            <p class="lead fw-normal">  --MARCO ANTONIO TAMBO ARCANI-- ------TEM-742 EMERGENTES II------ Proyecto de curso II-2022 .</p>
+            <p class="lead fw-normal">  --RONALD ROLANTO TICONA INCA Y CEILI ALIZON HUASCO CALLISAYA-- ------TEM-742 EMERGENTES II------ Proyecto de curso II-2023 .</p>
             <a class="btn btn-outline-secondary" href="index.jsp">INICIAR SESION</a>
         </div>
     </div>

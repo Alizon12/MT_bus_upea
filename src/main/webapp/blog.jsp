@@ -1,7 +1,5 @@
 <%-- 
-    Document   : blog
-    Created on : 5 dic. de 2022, 04:03:08
-    Author     : MARCO_T_EMERGENTES
+  
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

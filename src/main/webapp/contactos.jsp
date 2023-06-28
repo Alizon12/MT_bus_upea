@@ -1,7 +1,5 @@
 <%-- 
-    Document   : contactos
-    Created on : 5 dic. de 2022, 04:10:33
-    Author     : MARCO_T_EMERGENTES
+    
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

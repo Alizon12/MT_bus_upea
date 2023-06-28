@@ -5,9 +5,7 @@
 %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%-- 
-    Document   : tipo_buses
-    Created on : 1 dic. de 2022, 20:02:15
-    Author     : MARCO_T_EMERGENTES
+  
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
